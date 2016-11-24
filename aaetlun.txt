@@ -1,0 +1,9 @@
+#Vefsíðan á fjalla um tölvuleikinn Call of Duty: Black Ops II
+#Við ætlum báðir að finna efni fyrir ritgerðina 
+#Eftir að við finnum efni í textann ætlum við að 
+hjálpast að að gera html og css skjölin
+#Óðinn ætlar að skrifa html og css skjölin og hann 
+Daði ætlar að hjálpa að setja upp html og css og finna efni til að skrifa
+
+ 
+ 
