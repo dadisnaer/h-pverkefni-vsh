@@ -1,0 +1,16 @@
+section
+{
+	text-align: center;
+	max-width: 50em;
+	margin:auto;
+}
+body
+{
+	background-image: url(cod.jpg);
+	background-size: cover;
+}
+.bwhite
+{
+	background: rgba(255,255,255,0.5);
+	padding: 5px
+}
