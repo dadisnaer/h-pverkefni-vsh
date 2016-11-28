@@ -9,7 +9,7 @@ Call of Duty: Black Ops II er 1.persónu byssu leikur sem er bannaður innan 18 
 Eftir þennan leik sem er talinn vera eitt af bestu Call of Duty leikjunum hafa notendur leiksins minnkað töluvert útaf nýju Call         of Duty leikjunum sem koma á hverju ári.
 Nýjustu Call of Duty leikirnir eru talsvert breyttir miðað við Black Ops II t.d. að leikirnir eru orðnir mjög framtíðarlegir með         laser byssum og jetpökkum, svo eru gæðin í leikjunum orðin mikið betri en oftast eru leikirnir mjög svipaðir þegar kemur að spila þá fyrir utan jetpökkin. Það eru ekki miklar framtíðarhorfur fyrir leikinn því hann er frekar gamall en það er ekki hætt að framleiða hann vegna miklar eftirspurnar útaf því hversu vinsæll hann var á sínum tíma.
 		
-Black Ops II býður uppá þrjú gamemode singleplayer, multiplayer og zombies. Í singleplayer spilaru söguna í leiknum og er oftast         mest spennandi parturinn af Call of Duty leikjunum. Í multiplayer spilaru á móti alvöru fólki útí heimi sem er líka að spila             leikinn. Og í zombies það útskýrir sig sjálft eiginlega þú og annaðhvort vinir eða fólk útí heim reynir að endast sem lengst í           zombie apocalypse. 
+Black Ops II býður uppá þrjú gamemode singleplayer, multiplayer og zombies. Í singleplayer spilaru söguna í leiknum og er oftast         mest spennandi parturinn af Call of Duty leikjunum. Í multiplayer spilaru á móti alvöru fólki útí heimi sem er líka að spila             leikinn. Og í zombies það útskýrir sig sjálft eiginlega þú og annaðhvort vinir eða fólk útí heim reynið að endast sem lengst í           zombie apocalypse. 
 
 Hér er BLack Ops II trailerinn
 		
